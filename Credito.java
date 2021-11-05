@@ -23,7 +23,7 @@ public class Credito {
         System.out.println(this.PagoPorIntereses());
     }
 
-
+//credito pago por intereses
     public double PagoPorIntereses(){
     double saldoanterior = valorCredito ,total = 0,x = 0;
     
